@@ -1,5 +1,11 @@
-### Hi there 👋
-![Codewars badge](https://www.codewars.com/users/daszkass/badges/large)
+[![Codewars badge](https://www.codewars.com/users/daszkass/badges/small)](https://www.codewars.com/users/daszkass)
+### Hi there, I'm [Daria](https://www.linkedin.com/in/d-sobolewska/) 👋
+:ballot_box_with_check: I am a beginner QA, focusing on learning Cypress and TypeScript
+
+:arrow_forward: Check out my **[Portfolio](https://github.com/daszkass/Portfolio)**
+
+
+
 
 <!--
 **daszkass/daszkass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
