@@ -1,8 +1,10 @@
 [![Codewars badge](https://www.codewars.com/users/daszkass/badges/small)](https://www.codewars.com/users/daszkass)
 ### Hi there, I'm [Daria](https://www.linkedin.com/in/d-sobolewska/) 👋
-:ballot_box_with_check: I am a beginner QA, focusing on learning Cypress and TypeScript
+:ballot_box_with_check: I found my place in the area of ​​Quality Assurance and still develop :muscle:
 
-:arrow_forward: Check out my **[Portfolio](https://github.com/daszkass/Portfolio)**
+:ballot_box_with_check: I'm focused on improving my code (TypeScript) :computer:
+
+:ballot_box_with_check: I work mainly with Cypress and PlayWright :bug:
 
 
 
